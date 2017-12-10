@@ -1,0 +1,153 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Unit -->
+    <dimen name="half_small">2dp</dimen>
+    <dimen name="half_small_odd">3dp</dimen>
+    <dimen name="half_fit">5dp</dimen>
+    <dimen name="half_medium">6dp</dimen>
+    <dimen name="half_large">8dp</dimen>
+
+    <dimen name="small">4dp</dimen>
+    <dimen name="half_large_neg">-8dp</dimen>
+    <dimen name="fit">10dp</dimen>
+    <dimen name="medium">12dp</dimen>
+    <dimen name="m_large">14dp</dimen>
+    <dimen name="large">16dp</dimen>
+
+    <dimen name="x_fit">20dp</dimen>
+    <dimen name="x_medium">24dp</dimen>
+    <dimen name="x_large">32dp</dimen>
+
+    <dimen name="xx_fit">40dp</dimen>
+    <dimen name="xx_medium">48dp</dimen>
+    <dimen name="xx_large">64dp</dimen>
+
+    <!-- Dimen -->
+    <dimen name="elevation">@dimen/half_small</dimen>
+    <dimen name="elevation_app_bar">@dimen/small</dimen>
+    <dimen name="elevation_drawable">@dimen/half_medium</dimen>
+    <dimen name="elevation_status_bar">@dimen/half_large</dimen>
+
+    <dimen name="zero">0dp</dimen>
+    <dimen name="default_margin">@dimen/large</dimen>
+    <dimen name="default_margin_neg">-16dp</dimen>
+    <dimen name="key_line_half">36dp</dimen>
+    <dimen name="key_line">72dp</dimen>
+    <dimen name="key_line_neg">-72dp</dimen>
+
+    <dimen name="splash_logo_top_margin">150dp</dimen>
+    <dimen name="walk_through_arrow_bottom_margin">90dp</dimen>
+
+    <dimen name="border_thickness">1dp</dimen>
+    <dimen name="border_thickness_dark">2dp</dimen>
+    <dimen name="corner">@dimen/half_small</dimen>
+    <dimen name="corner_large">@dimen/small</dimen>
+    <dimen name="corner_xlarge">@dimen/half_large</dimen>
+    <dimen name="corner_round_rect">30dp</dimen>
+
+    <dimen name="fab_neg_size">-56dp</dimen>
+    <dimen name="fab_margin">0dp</dimen>
+
+    <dimen name="card_thumb_width">104dp</dimen>
+    <dimen name="card_thumb_height">58dp</dimen>
+    <dimen name="card_thumb_width_small">88dp</dimen>
+    <dimen name="card_thumb_height_small">50dp</dimen>
+    <dimen name="card_item_height">82dp</dimen>
+
+    <dimen name="setting_item_height">56dp</dimen>
+    <dimen name="setting_item_large_height">72dp</dimen>
+
+    <dimen name="fast_scroll_width">36dp</dimen>
+    <dimen name="fast_scroll_thumb_width">@dimen/half_large</dimen>
+    <dimen name="fast_scroll_thumb_min_height">@dimen/x_medium</dimen>
+
+    <dimen name="avatar_x_small_width">30dp</dimen>
+    <dimen name="avatar_small_width">34dp</dimen>
+    <dimen name="avatar_width">40dp</dimen>
+    <dimen name="avatar_width_large">52dp</dimen>
+    <dimen name="avatar_width_xlarge">72dp</dimen>
+    <dimen name="avatar_width_xlarge_half">36dp</dimen>
+    <dimen name="avatar_width_xlarge_half_neg">-36dp</dimen>
+
+    <dimen name="profile_map_height">120dp</dimen>
+    <dimen name="profile_name_min_height">82dp</dimen>
+
+    <dimen name="camera_right_side_width">88dp</dimen>
+    <dimen name="camera_left_side_width">40dp</dimen>
+    <dimen name="camera_focus_area_side_margin">36dp</dimen>
+
+    <dimen name="button_height">48dp</dimen>
+    <dimen name="text_button_min_height">36dp</dimen>
+    <dimen name="text_button_min_width">64dp</dimen>
+    <dimen name="login_button_height">40dp</dimen>
+    <dimen name="login_button_margin">60dp</dimen>
+
+    <dimen name="message_max_width">230dp</dimen>
+    <dimen name="message_max_width_margin">122dp</dimen>
+    <dimen name="message_max_width_gift_margin">136dp</dimen>
+    <dimen name="message_input_min_height">42dp</dimen>
+    <dimen name="message_my_arrow_margin_neg">-8dp</dimen>
+    <dimen name="message_you_arrow_margin_neg">-12dp</dimen>
+    <dimen name="message_box_margin">12dp</dimen>
+    <dimen name="message_button_min_height">44dp</dimen>
+
+    <dimen name="notification_image_width">57dp</dimen>
+    <dimen name="notification_image_height">32dp</dimen>
+
+    <dimen name="sort_width">100dp</dimen>
+    <dimen name="sort_header_width">68dp</dimen>
+    <dimen name="sort_item_width">100dp</dimen>
+
+    <dimen name="sharebook_item_height">66dp</dimen>
+
+    <dimen name="sos_main_item_height">133dp</dimen>
+    <dimen name="sos_item_button_height">40dp</dimen>
+    <dimen name="sos_detail_like_height">54dp</dimen>
+    <dimen name="sos_new_request_height">56dp</dimen>
+
+    <dimen name="dialog_margin_under_text">42dp</dimen>
+    <dimen name="dialog_margin_over_close">37dp</dimen>
+
+    <dimen name="room_member_item_height">88dp</dimen>
+    <dimen name="card_exchange_item_height">56dp</dimen>
+    <dimen name="invite_item_height">68dp</dimen>
+    <dimen name="drawer_min_width">400dp</dimen>
+    <dimen name="card_data_forward_height">145dp</dimen>
+    <dimen name="terms_height">165dp</dimen>
+
+    <!-- ETC -->
+    <dimen name="check_mode_toolbar_height">150dp</dimen>
+    <dimen name="keyboard_min_height">230dp</dimen>
+    <dimen name="select_toolbar_height">44dp</dimen>
+    <dimen name="room_invite_code_button_height">44dp</dimen>
+    <dimen name="request_card_memo_min_height">56dp</dimen>
+    <dimen name="picker_width">108dp</dimen>
+    <dimen name="find_candidate_height">64dp</dimen>
+    <dimen name="spinner_item_height">48dp</dimen>
+    <dimen name="navigation_item_min_width">168dp</dimen>
+    <dimen name="add_card_bottom_margin">72dp</dimen>
+    <dimen name="map_fab_bottom_margin">144dp</dimen>
+    <dimen name="team_usage_height">70dp</dimen>
+    <dimen name="trash_dialog_width">280dp</dimen>
+    <dimen name="team_list_header_height">28dp</dimen>
+    <dimen name="cluster_info_max_height">150dp</dimen>
+
+    <!-- Circle indicator -->
+    <dimen name="default_circle_indicator_radius">4dp</dimen>
+    <dimen name="default_circle_indicator_stroke_width">1dp</dimen>
+
+    <!-- Font -->
+    <dimen name="xx_small_font">8sp</dimen>
+    <dimen name="x_small_font">10sp</dimen>
+    <dimen name="small_font_odd">11sp</dimen>
+    <dimen name="small_font">12sp</dimen>
+    <dimen name="medium_font_odd">13sp</dimen>
+    <dimen name="medium_font">14sp</dimen>
+    <dimen name="large_font_odd">15sp</dimen>
+    <dimen name="large_font">16sp</dimen>
+    <dimen name="x_large_font_odd">17sp</dimen>
+    <dimen name="x_large_font">18sp</dimen>
+    <dimen name="xx_large_font">20sp</dimen>
+    <dimen name="xxx_large_font">24sp</dimen>
+    <dimen name="letter_spacing">0.2sp</dimen>
+</resources>

@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+
+    <color name="primary_color">#9FC7E3</color>
+    <color name="white">#FFFFFF</color>
+    <color name="ghost_white">#FAFAFA</color>
+    <color name="white_smoke">#F0F0F0</color>
+    <color name="grey">#EEEEEE</color>
+    <color name="grey_bg">#D8D8D8</color>
+    <color name="grey_light">#E5E5E5</color>
+    <color name="grey_dark_light">#DEDEDE</color>
+    <color name="grey_dark">#A4A9AD</color>
+    <color name="silver">#BFBFBF</color>
+    <color name="steel">#666666</color>
+    <color name="aluminum">#999999</color>
+    <color name="iron">#CCCCCC</color>
+    <color name="oil">#333333</color>
+    <color name="haiti">#2A2937</color>
+    <color name="haiti_light">#394558</color>
+    <color name="light_black">#FF666666</color>
+    <color name="blue">#6798d0</color>
+    <color name="blue_dark">#487ab8</color>
+    <color name="green_gray">#789278</color>
+    <color name="premium">#7a7aff</color>
+
+    <color name="elf_green">#018B69</color>
+    <color name="jungle_green">#15A581</color>
+    <color name="orange">#FF7200</color>
+    <color name="sunset_orange">#FF5252</color>
+    <color name="red_orange">#FF2A2A</color>
+    <color name="cerulean">#009FDF</color>
+    <color name="yellow">#FFDE00</color>
+    <color name="purple">#9675CE</color>
+    <color name="bluish_gray">#738d9a</color>
+    <color name="bitter_sweet">#FF6B64</color>
+    <color name="cool_blue">#4e7db5</color>
+
+    <color name="color_primary">@color/jungle_green</color>
+    <color name="color_primary_dark">@color/elf_green</color>
+    <color name="color_primary_shadow">#cc006D52</color>
+    <color name="color_primary_disable">#4715A581</color>
+    <color name="color_primary_light">#8AD2C0</color>
+
+    <color name="color_primary_sharebook">#2D3746</color>
+    <color name="color_primary_dark_sharebook">#28313E</color>
+    <color name="color_primary_light_sharebook">#455A64</color>
+
+    <color name="default_empty_background">#85839C</color>
+    <color name="status_bar_check_mode">#77758C</color>
+
+    <color name="border">@color/grey</color>
+    <color name="border_dark_light">@color/iron</color>
+    <color name="border_dark">#6A6A73</color>
+
+    <color name="shadow_light">#05000000</color>
+    <color name="shadow">#35000000</color>
+    <color name="shadow_dark">#80000000</color>
+    <color name="shadow_black">#cf000000</color>
+
+    <color name="item_new">#FFF2E1</color>
+    <color name="item_normal">@android:color/white</color>
+    <color name="item_press">#E9F0FA</color>
+    <color name="item_checked">@color/item_press</color>
+
+    <color name="btn_request">@color/cerulean</color>
+    <color name="btn_request_press">#cc009FDF</color>
+
+    <color name="btn_present">@color/blue</color>
+    <color name="btn_present_press">#cc6E9BF6</color>
+
+    <color name="text_guide_green">@color/color_primary</color>
+    <color name="text_guide_grey">@color/aluminum</color>
+    <color name="text_guide_grey_dark">@color/steel</color>
+    <color name="text_guide_red">@color/sunset_orange</color>
+    <color name="text_guide_black">#89000000</color>
+    <color name="text_guide_white">#9bFFFFFF</color>
+
+    <color name="default_text">@color/oil</color>
+    <color name="default_hint">@color/iron</color>
+
+    <color name="message_my">#DCE3E6</color>
+    <color name="message_input_attach">#E8E8E8</color>
+
+    <color name="toolbar_sub_title">#b3FFFFFF</color>
+    <color name="card_bottom_toolbar_press">#6C6B7C</color>
+    <color name="jordy_blue">#6ba0e0</color>
+
+    <!-- Social -->
+    <color name="naver_background_normal">#60D04C</color>
+    <color name="naver_background_press">#cc60D04C</color>
+    <color name="facebook_background_normal">#4462A1</color>
+    <color name="facebook_background_press">#cc4462A1</color>
+    <color name="googleplus_background_normal">#E85C4C</color>
+    <color name="googleplus_background_press">#ccE85C4C</color>
+    <color name="kakao_background_normal">#FAD648</color>
+    <color name="kakao_background_press">#ccFAD648</color>
+    <color name="kakao_text_color">#513828</color>
+    <color name="email_background_normal">#85839C</color>
+    <color name="email_background_press">#cc85839C</color>
+    <color name="etc_background_normal">#999999</color>
+    <color name="etc_background_press">#cc999999</color>
+</resources>
